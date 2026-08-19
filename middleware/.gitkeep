@@ -1,0 +1,5 @@
+# middleware
+
+Controlli che girano prima di mostrare una pagina, es. il rimando al login.
+
+Cartella ancora vuota: si riempie seguendo il piano di apprendimento.
